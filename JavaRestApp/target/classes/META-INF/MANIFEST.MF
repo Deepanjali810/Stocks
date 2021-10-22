@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 003084
+Build-Jdk: 16.0.2
+Implementation-Title: JavaRestApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: JavaRestApp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/JavaRestApp
+Created-By: Maven Integration for Eclipse
+
